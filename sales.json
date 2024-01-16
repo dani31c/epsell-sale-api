@@ -1,14 +1,14 @@
 {
-  "p1name": "Chocapic",
-  "p1object": "Chocapic",
-  "p1prior": "3.50",
-  "p1now": "3.00",
-  "p2name": "Milka Cake & Choc",
-  "p2object": "MilkaCakeChoc",
-  "p2prior": "2.85",
-  "p2now": "2.45",
-  "p3name": "ERG Washing Powder",
-  "p3object": "ERGWashingPowder",
-  "p3prior": "5.00",
-  "p3now": "4.35"
+  "p1name": "ERG B&W Washing Powder (200g)",
+  "p1object": "ERG-200gB&W-WashingPowder",
+  "p1prior": "5.00",
+  "p1now": "4.50",
+  "p2name": "ERG Cajun Seasoning",
+  "p2object": "ERGCajun",
+  "p2prior": "1.25",
+  "p2now": "1.00",
+  "p3name": "PengYang Won 3 Tablet",
+  "p3object": "PengWon3Tab",
+  "p3prior": "75.99",
+  "p3now": "64.99"
 }
