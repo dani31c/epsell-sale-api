@@ -1,14 +1,14 @@
 {
-  "p1name": "",
-  "p1object": "",
-  "p2name": "",
-  "p2object": "",
-  "p3name": "",
-  "p3object": "",
-  "p4name": "",
-  "p4object": "",
-  "p5name": "",
-  "p5object": "",
-  "p6name": "",
-  "p6object": ""
+  "p1name": "Coco Pops",
+  "p1object": "CocoPops",
+  "p2name": "ERG Salt",
+  "p2object": "ERGSalt",
+  "p3name": "Doritos Nacho",
+  "p3object": "DoritosNacho",
+  "p4name": "Misuuzo Desk 5400P+",
+  "p4object": "MisDesk5400P",
+  "p5name": "White Melon",
+  "p5object": "WhiteMelon",
+  "p6name": "ERG Universal Washing Powder (200g)",
+  "p6object": "ERG-200gUniversal-WashingPowder"
 }
