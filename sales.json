@@ -1,14 +1,14 @@
 {
-  "p1name": "Coco Pops",
-  "p1object": "CocoPops",
-  "p2name": "ERG Salt",
-  "p2object": "ERGSalt",
-  "p3name": "Doritos Nacho",
-  "p3object": "DoritosNacho",
-  "p4name": "Misuuzo Desk 5400P+",
-  "p4object": "MisDesk5400P",
-  "p5name": "White Melon",
-  "p5object": "WhiteMelon",
-  "p6name": "ERG Universal Washing Powder (200g)",
-  "p6object": "ERG-200gUniversal-WashingPowder"
+  "p1name": "Toblerone",
+  "p1object": "Toblerone",
+  "p2name": "Skittles",
+  "p2object": "Skittles",
+  "p3name": "TECENS MCU 1.3",
+  "p3object": "TECENS MCU 1.3",
+  "p4name": "Epsell Paprika",
+  "p4object": "EP-Paprika",
+  "p5name": "Lifelong Pet Food",
+  "p5object": "LifelongPetFood",
+  "p6name": "Fanta Watermelon Pack",
+  "p6object": "FantaWPack"
 }
