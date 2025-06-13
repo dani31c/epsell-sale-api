@@ -1,14 +1,14 @@
 {
-  "p1name": "Walkers Crisps",
-  "p1object": "WalkersCrisps",
-  "p2name": "Misuuzo Desk 5400+",
-  "p2object": "MisDesk5400P",
-  "p3name": "Nestle Mix",
-  "p3object": "NestleMix",
-  "p4name": "Epsell Curry",
-  "p4object": "EP-Curry",
-  "p5name": "Epsell 200g Universal Washing Powder",
-  "p5object": "EP-200gUniversal-WashingPowder",
-  "p6name": "Canary Melon",
-  "p6object": "CanaryMelon"
+  "p1name": "Banana",
+  "p1object": "Banana",
+  "p2name": "Canary Melon",
+  "p2object": "CanaryMelon",
+  "p3name": "Fanta Watermelon Pack",
+  "p3object": "FantaWPack",
+  "p4name": "Fanta Grape Pack",
+  "p4object": "FantaGPack",
+  "p5name": "Pepsi Max Pack",
+  "p5object": "PepMaxPack",
+  "p6name": "Coca Cola Zero Pack",
+  "p6object": "CocaZeroPack"
 }
